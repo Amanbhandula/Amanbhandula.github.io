@@ -4,7 +4,7 @@ date: 2019-06-10
 tags: [Start-up, Healthcare, Farmako]
 header:
   image: "/images/personal/zeroToOne.jpg"
-excerpt: "Start-up"
+excerpt: "Start-up, Books, Peter Thiel"
 mathjax: "true"
 ---
 

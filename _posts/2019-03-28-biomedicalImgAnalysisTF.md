@@ -4,7 +4,7 @@ date: 2019-03-28
 tags: [Farmako, Healthcare, Medical Imaging]
 header:
   image: "/images/personal/examplesOfMedicalImages.png"
-excerpt: "Start-up"
+excerpt: "Farmako, Deep Learning"
 mathjax: "true"
 ---
 

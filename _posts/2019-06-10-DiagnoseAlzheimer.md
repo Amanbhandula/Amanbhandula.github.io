@@ -4,7 +4,7 @@ date: 2019-06-10
 tags: [Saving lives, Healthcare, Farmako]
 header:
   image: "/images/personal/alzheimers.jpg"
-excerpt: "Alzheimer’s"
+excerpt: "Farmako, Healthcare, Alzheimer, Gates Notes"
 mathjax: "true"
 ---
 
