@@ -13,7 +13,7 @@ Biomedical images are measurements of the human body on different scales (i.e. m
 
 Biomedical images are typically volumetric images (3D) and sometimes have an additional time dimension (4D) and/or multiple channels (4-5D) (e.g. multi-sequence MR images). The variation in biomedical images is quite different from that of a natural image (e.g. a photograph), as clinical protocols aim to stratify how an image is acquired (e.g. a patient is lying on his/her back, the head is not tilted, etc.). In their analysis, we aim to detect subtle differences (i.e. some small region indicating an abnormal finding).
 
-#H3 Why computer vision and machine learning? 
+# Why computer vision and machine learning? 
 Computer vision methods have long been employed to automatically analyze biomedical images. The recent advent of deep learning has replaced many other machine learning methods, because it avoids the creation of hand-engineering features, thus removing a critical source of error from the process. Additionally, the fast inference speeds of GPU-accelerated fully networks, allows us scale analyses to unprecedented amounts of data (e.g. 10⁶ subject images).
 
 # Can we readily employ deep learning libraries for biomedical imaging?

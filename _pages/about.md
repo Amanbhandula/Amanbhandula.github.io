@@ -5,7 +5,7 @@ header:
   image: "/images/coverPic.JPG"
 ---
 
-I'm the founder of Farmako Healthcare. I'm an undergrad at IIT Roorkee. I have been doing Machine Learning and Deep Learning for 4 years. I'm interted in building real world applications using AI and Deep Learning. Currently I'm working in healthcare industry. We're making something which will change the entire Indian healthcare system.
+I'm the founder of Farmako Healthcare. I'm an undergrad at IIT Roorkee. I have been doing Machine Learning and Deep Learning for 4 years. I'm interested in building real world applications using AI and Deep Learning. Currently I'm working in healthcare industry. We're making something which will change the entire Indian healthcare system.
 
 My vision is to provide these smart medical tools to those who need it the most. I'd like to tackle more problems like this in future. 
 
