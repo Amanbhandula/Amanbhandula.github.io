@@ -1,5 +1,5 @@
 ---
-title: "We might one day diagnose Alzheimer’s"
+title: Alzheimer will be diagnosable some day"
 date: 2019-06-10
 tags: [Saving lives, Healthcare, Farmako]
 header:
