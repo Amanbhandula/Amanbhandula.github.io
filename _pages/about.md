@@ -5,10 +5,14 @@ header:
   image: "/images/coverPic.JPG"
 ---
 
-I'm the founder of Farmako Healthcare. I'm an undergrad at IIT Roorkee. I have been doing Machine Learning and Deep Learning for 4 years. I'm interested in building real world applications using AI and Deep Learning. Currently I'm working in healthcare industry. We're making something which will change the entire Indian healthcare system.
+Hi, I am Aman Bhandula. I am a fourth year undergrad student at IIT Roorkee. I am the founder of Farmako Healthcare. It's a centralized health record system for India. Our vision is to provide better healthcare to people in every part of India.  
 
-My vision is to provide these smart medical tools to those who need it the most. I'd like to tackle more problems like this in future. 
+I read this in a book that so many of the successful people from outside of India, visited India to see how people live their daily lives with near no lifestyle and tonnes of basic problems, which made them realise that there're some very serious global issues to solve. It's strange how so many of very talented and capable people in India waste their potential in very trivial things like getting settled in life. I mean you've to do something after looking at these problems that millions of people face everyday. It's really hard to ignore this.
 
-I'd like to study extensively about Augmented Reality and Virtual Reality in future. I believe that these techs will bring the next paradigm shift in the tech industry.
+I believe that enough people are not working in this domain, so I decided to do something in Healthcare in the future.
 
-I read books regularly, play guitar in my free time and play squash sometimes. I've read very much about Mahatama Gandhi, Steve Jobs, Alan Turing, Bill Gates and Swami Vivekanand. Currently, I'm reading "The Idea of Justice" by Amartya Sen. I like watching science fiction movies in free time.
+I have been doing machine learning for four years. I want to build some real-world AI applications, that will complement the role of doctors in Indian Healthcare system. 
+
+I love reading books, playing squash and cricket. I play guitar in free time. I love reading about Steve Jobs, Mahatama Gandhi, Alan Turing, Bill Gates and Swami Vivekanand. I believe that they all had a unique perspective of looking at things.
+
+I love reading psychology blogs. Currenly, I'm reading some elementary books in Psychology. 
