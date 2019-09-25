@@ -1,5 +1,5 @@
 ---
-title: Alzheimer will be diagnosable some day
+title: A solution to Alzheimer's disease 
 date: 2019-06-10
 tags: [Saving lives, Healthcare, Farmako]
 header:
