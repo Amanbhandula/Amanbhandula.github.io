@@ -3,7 +3,7 @@ title: "The Idea of Justice"
 date: 2019-09-10
 tags: [Philosophy, Amartya Sen]
 header:
-  image: "/images/personal/TheIdeaOfJustice.jpeg"
+  image: "/images/personal/TheIdeaOfJustice.jpg"
 excerpt: "The Idea of Justice"
 mathjax: "true"
 ---
