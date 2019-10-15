@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Aman Bhandula"
-  avatar           : "/images/profilePic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profilePic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Farmako | IIT Roorkee"
   location         : "Roorkee"
   email            :
