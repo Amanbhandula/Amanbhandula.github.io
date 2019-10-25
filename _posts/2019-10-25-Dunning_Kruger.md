@@ -8,7 +8,7 @@ excerpt: "DK Effect"
 mathjax: "true"
 ---
 
-I want to decode a research paper- “Unskilled and Unaware of it — How difficulties in recognizing one’s own incompetence lead to inflated self assessments” by Dunning and Kruger. I got interested in this paper after learning of the Dunning-Kruger Effect, which you may have heard of before if the word “imposter syndrome” rings a bell.
+I want to decode a research paper- “Unskilled and Unaware of it — How difficulties in recognizing one’s own incompetence lead to inflated self assessments” by Dunning and Kruger. I got interested in this paper after learning about the Dunning-Kruger Effect, which you may have heard of before if the word “imposter syndrome” rings a bell.
 
 The very skills that make you good at your job also make you good at recognizing whether you are good at it. Therefore, when someone is not skilled at their job, they also lack the skill of awareness, which makes them unable to recognize that they are not good.
 
