@@ -5,14 +5,15 @@ header:
   image: "/images/coverPic.JPG"
 ---
 
-Hi, I am Aman Bhandula. I am a fourth year undergrad student at IIT Roorkee. I am the founder of Farmako Healthcare. It's a centralized health record system for India. Our vision is to provide better healthcare to people in every part of India.  
+Hi, I am Aman. I am a fourth-year undergrad student at IIT Roorkee and founder of Farmako Healthcare. We're building India's first centralized health record system. 
 
-I read this in a book once that a number of successful people from outside of India, visited India to see how people live their daily lives with near no lifestyle and tonnes of basic problems, which made them realize that there are some very serious global issues. It's strange how so many of very talented and capable people in India waste their potential in very trivial things like getting settled in life. I mean you've to do something after looking at these problems that millions of people face everyday. It's really hard to ignore this thing.
+I started working on this last year in July'19. I went to a doctor, and I realized that I don't have a structured medical history. I was shocked that how we can miss something so important. Then, I did some research on it and found a lot of underlying problems in the Indian Healthcare Industry. 
 
-I believe that enough people are not working in healthcare, so I decided to do something related to healthcare in the future.
 
-I have been doing machine learning for four years. I want to build some real-world AI applications, that will complement the role of doctors in Indian Healthcare system. 
+I read this in a book once that many successful people from outside of India, visited India to see how people live their daily lives with no lifestyle and tonnes of fundamental problems, which made them realize that there are some severe global issues. It's strange how so many very talented and capable people in India waste their potential in very trivial things like getting settled in life. I mean, you've to do something after looking at these problems that millions of people face every day. It's tough to ignore these things.
 
-I love reading books, playing squash and cricket. I play guitar in free time. I love reading about Steve Jobs, Mahatama Gandhi, Alan Turing, Bill Gates and Swami Vivekanand. I believe that they all had a unique perspective of looking at things.
+I believe that enough people are not working in healthcare, so I decided to do something related to healthcare in the future. I want to build some real-world Machine Learning applications that will complement the role of doctors in the Indian Healthcare system. 
 
-I love reading psychology blogs. Currenly, I'm reading some elementary books in Psychology. 
+I love reading books, playing squash and cricket. I play guitar in my free time. I love reading about Steve Jobs, Mahatama Gandhi, Alan Turing, Bill Gates, and Swami Vivekanand. I believe that they all had a unique perspective of looking at things. 
+
+I love reading psychology books and blogs. Currently, I'm reading some elementary books in Psychology. 

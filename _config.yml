@@ -86,22 +86,22 @@ analytics:
 author:
   name             : "Aman Bhandula"
   avatar           : "/images/profilePic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Farmako | IIT Roorkee"
-  location         : "Roorkee"
-  email            :
+  bio              : "Farmako Healthcare | IIT Roorkee"
+  location         : "Roorkee, India"
+  email            : "aman@farmako.in"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :  "aman.bahndula.7"
   foursquare       :
   github           : "Amanbhandula"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "bhands_ab"
   lastfm           :
   linkedin         : "aman-bhandula-b71032132/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          :  "Amanbhandula2"
   vine             :
   weibo            :
   xing             :
